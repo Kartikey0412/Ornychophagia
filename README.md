@@ -1,1 +1,4 @@
 # Ornychophagia
+
+Onychophagia, defined as habitual nail biting, is a common disorder affecting 20-30% of the population and is more prevalent in children. Objectives: To determine the prevalence of nail biting in the pediatric population. Secondary objectives were to determine the presence of psychiatric co-morbidities associated with nail biting, and the effect of treatment on nail biting. Mutlivariable logistic regression analysis was conducted for the presence of nail biting and 'how' often one nail bites. p-values, odd ratio and 95% CI were calculated for the coefficients  
+Dependent variables were made binary before the regression. Normality testing was conducted using qqplot. Differences in variable across groups were tested based on T.TEST for normal continuous variables, or Wilcox-test for categorical variables or chisq testing for  categorical variables. One-way analysis of variance was followed by ad-hoc Tukey testing.
